@@ -1,0 +1,15 @@
+Rubric
+
+Use this project rubric to understand and assess the project criteria.
+Statistical Analyses
+
+Criteria	                                 Submission Requirements
+
+Correct Values for All Statistical Results   All statistical numeric values are calculated correctly.
+
+Correct Identification of Variable Types     All variable types are correctly identified.
+
+Correctly Identify Measures of Center        When asked for measures of center, measures of center are provided. 
+and Measures of Spread                       When asked for measures of spread, measures of spread are provided.
+
+Correctly Plot Distribution of Heart Rates   Plot heart rates and identify possible outliers.
